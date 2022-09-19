@@ -12,13 +12,14 @@
 </br>
 
 ### Encantado de verte por aquí!
-
+/*
 <a href="https://play.google.com/store/apps/details?id=com.companyname.CuantoCobro">
   <img align="right" alt="Gif" src="https://user-images.githubusercontent.com/97201832/168071288-a803274f-58c3-436b-bfc5-85f45a11222d.png" width="200" />
 </a>
 <a href="https://play.google.com/store/apps/details?id=com.companyname.diccionariodominicano">
   <img align="right" alt="Gif" src="https://user-images.githubusercontent.com/97201832/168071408-65748006-2369-436c-ad95-c4e01f6afed9.png" width="200" />
 </a>
+*/
 
 Actualmente estoy desarrollando en Xamarin.Forms y HTML con CSS.
 
