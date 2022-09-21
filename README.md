@@ -15,9 +15,7 @@
 
 ### Encantado de verte por aquí!
 
-Actualmente estoy desarrollando en Xamarin.Forms y HTML con CSS.
-
-Me encanta compartir con la comunidad, aprender cosas nuevas, desarrollar hermosos diseños (UI/UX).
+Actualmente estoy desarrollando en Xamarin.Forms, me encanta compartir con la comunidad, aprender cosas nuevas, desarrollar e innovar diseños (UI/UX).
 
 Hablando de cosas personales:
 
