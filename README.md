@@ -15,12 +15,11 @@
 
 ### Encantado de verte por aquí!
 
-Actualmente estoy desarrollando en Xamarin.Forms, me encanta compartir con la comunidad, aprender cosas nuevas, desarrollar e innovar diseños (UI/UX).
+Actualmente estoy desarrollando en MAUI, me encanta compartir con la comunidad, aprender cosas nuevas, desarrollar e innovar diseños (UI/UX).
 
 Hablando de cosas personales:
 
 - 👨 Soy Pablo (@pablouix).
-- 🏢 Actualmente trabajo como Freelance.
 - 💬 Pregúntame lo que sea, estoy para ayudarte.
 - 📝 Regularmente diseño tanto como puedo.
 - 🎞️ Comparto mucho con la comunidad.
