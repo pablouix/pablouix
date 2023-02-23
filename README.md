@@ -13,7 +13,7 @@
 ##
 ### Encantado de verte por aquí!
 
-Actualmente estoy desarrollando en MAUI, me encanta compartir con la comunidad, aprender cosas nuevas, desarrollar e innovar diseños (UI/UX).
+En este momento estoy enfocado en el desarrollo con c# MAUI y Blazor. Lo que más me apasiona es compartir con la comunidad, aprender cosas nuevas y trabajar en la creación de diseños UI/UX innovadores. Estoy constantemente buscando formas de mejorar mis habilidades y conocimientos, me encanta colaborar con otros desarrolladores para lograr nuestros objetivos en conjunto.
 
 Hablando de cosas personales:
 
