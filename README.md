@@ -1,8 +1,7 @@
 
 ### Hola, Soy <a href="https://cutt.ly/NK9QOSR" target="_blank">Pablo UIX</a> 👋
 
-![origi](https://user-images.githubusercontent.com/97201832/196587280-bdbe9e09-27f0-44fb-a6b3-d95b5def3285.jpg)
-
+![banner-git](https://user-images.githubusercontent.com/97201832/220819209-ef00cd28-3a0f-4802-b958-0d19f32fff01.jpg)
 
 [![PlayStore Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8081275861133106191)
 [![WebSite Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://cutt.ly/NK9QOSR)
