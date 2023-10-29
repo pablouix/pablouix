@@ -1,5 +1,6 @@
 
 ## Hola, Soy <a href="https://cutt.ly/NK9QOSR" target="_blank">Pablo </a> 👋
+![linkedin banner copia](https://github.com/pablouix/pablouix/assets/97201832/7229a889-21fc-4bd3-90df-c7e91ae387b4)
 
 ##
 [![PlayStore Badge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8081275861133106191)
