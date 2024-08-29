@@ -8,20 +8,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablouix)
 [![Behance Badge](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/pablouix)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mangucode)
-
 [![youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mangucode)
 ##
-### Encantado de verte por aquí!
-
-En este momento estoy enfocado en el desarrollo de Apps. Lo que más me apasiona es compartir con la comunidad, aprender cosas nuevas y trabajar en la creación de diseños UI/UX innovadores. Estoy constantemente buscando formas de mejorar mis habilidades y conocimientos, me encanta colaborar con otros desarrolladores para lograr nuestros objetivos en conjunto.
-
-Hablando de cosas personales:
-
-- 💬 Pregúntame lo que sea, estoy para ayudarte.
-- 📝 Regularmente diseño y desarrollo Apps.
-- 🎞️ Comparto con la comunidad.
-- 📫 Cómo contactarme: info@mangucode.com
-
+📫 Contáctame: info@mangucode.com
 ##
 <div align="start">
   <a href="https://github.com/pablouix">
