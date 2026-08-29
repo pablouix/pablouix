@@ -5,22 +5,25 @@
 
 ---
 
-### 🚀 Sobre mí
+## 🎮 Juegos
 
-🎯 Desarrollador Full Stack enfocado en **crear productos digitales útiles, escalables y orientados al negocio**.  
-💼 Desarrollo **aplicaciones móviles, APIs robustas y plataformas web modernas**, cuidando tanto la arquitectura como la experiencia de usuario.  
-📲 Publico aplicaciones en **Google Play** enfocadas en productividad, gestión y soluciones prácticas para usuarios reales.  
-🚀 Fundador de **mangucode**, donde convierto ideas en software funcional listo para producción.
+- 🚗 **[Tapon Rush 3D](https://taponrush3d.mangucode.com/)** — Juego de carros lleno de velocidad y desafíos · [Google Play](https://play.google.com/store/apps/details?id=com.mangucode.taponrush3d)
+- 🏃 **[Atara Dash](https://ataradash.mangucode.com/)** — Juego arcade de reflejos y precisión · [Google Play](https://play.google.com/store/apps/details?id=com.mangucode.ataradash)
 
+## 🌎 Web
+
+- 🌋 **[Temblor DO](https://temblor-do.mangucode.com/)** — Información y seguimiento de actividad sísmica en República Dominicana.
 ---
 
-### 🛠️ Qué hago
+### 🚀 Sobre mí
 
-- 📱 Apps móviles (Android / multiplataforma)  
-- 🌐 Plataformas web modernas  
-- ⚙️ APIs y backend escalables  
-- 🧠 Soluciones enfocadas en negocio y automatización  
+🎯 Desarrollador Full Stack enfocado en crear **productos digitales útiles y orientados al negocio**.
 
+- 📱 Apps móviles y multiplataforma
+- 🌐 Plataformas web modernas
+- ⚙️ APIs y backend
+- 🧠 Automatización y soluciones con IA
+- 🚀 Fundador de **mangucode**
 ---
 
 ### 🌐 Encuéntrame en línea
